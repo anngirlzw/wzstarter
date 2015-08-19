@@ -1,0 +1,20 @@
+/**
+ * About Page Styles
+ */
+
+ #about-section {
+ 	#me-image {
+ 		padding: 20px 0;
+ 		div {
+ 			background: url(../img/about/polygon-profile.png) center center no-repeat;
+ 			background-size: 180px 210px;
+ 			width: 180px;
+ 			height: 210px;
+ 			margin: auto;
+ 		}
+
+ 		h2 {
+ 			text-align: center;
+ 		}
+ 	}
+ }
